@@ -1,5 +1,4 @@
 Plataforma de Gerenciamento de PDFs para WordPress 📄✨
-#wordpress #pdf-manager #php #mysql #document-management #web-development
 
 📌 Visão Geral
 Uma plataforma completa para upload, organização e gerenciamento de arquivos PDF com integração WordPress via shortcodes.
@@ -8,35 +7,30 @@ Uma plataforma completa para upload, organização e gerenciamento de arquivos P
 
 ✨ Funcionalidades Principais
 Upload de PDFs com metadados personalizados
-#file-upload #pdf-handler
 
 Organização hierárquica em abas e seções
-#content-organization #taxonomy
+
 
 Shortcodes para incorporação em páginas WordPress
-#wordpress-shortcode #cms
+
 
 Edição em tempo real de nomes e organização
-#live-editing #drag-and-drop
+
 
 Sistema de ordenação por arrastar e soltar
-#sortable #ui-ux
 
 🛠 Tecnologias Utilizadas
 Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
-#frontend #responsive-design
 
 Backend: PHP 7.4+, MySQL 5.7+
-#backend #database
 
 Recursos: jQuery, SortableJS
-#javascript-libs #interactivity
+
 
 🚀 Como Instalar
 Requisitos:
 
 Servidor web (Apache/Nginx)
-#web-server
 
 PHP 7.4+
 #php
@@ -47,7 +41,7 @@ MySQL 5.7+
 Configuração:
 
 bash
-git clone https://github.com/seu-usuario/pdf-platform.git
+git clone https://github.com/lipeA/pdf-platform.git
 cd pdf-platform
 #git #clone
 
@@ -100,5 +94,5 @@ Abra um Pull Request
 MIT License - veja o arquivo LICENSE para detalhes
 #mit-license #open-source-license
 
-Desenvolvido com ❤️ por Seu Nome
+Desenvolvido com ❤️ por Seu Felipe Assis de Jesus
 #developer #credits
